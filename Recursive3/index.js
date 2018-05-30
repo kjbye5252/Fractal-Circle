@@ -13,7 +13,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(51);
   stroke(255);
   noFill();
   translate(width/2,height/2);
